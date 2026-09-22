@@ -1,0 +1,19 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Dev-C++ / Code::Blocks IDE project files
+*.dev
+*.layout
+Makefile.win
+Makefile
+
+# Temporary and editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+.DS_Store
